@@ -3,13 +3,14 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-color: #e3f2fd;
+  background: radial-gradient(circle, rgba(48, 19, 9, 1) 0%, rgba(70, 35, 23, 1) 35%, rgba(107, 63, 48, 1) 74%, rgba(112, 78, 65, 1) 93%, rgba(120, 94, 84, 1) 100%);
+  /* background-color: #e3f2fd; */
   color: #fff;
 }
 
 .container {
   width: 780px;
-  border-radius: 20px;
+  border-radius: 30px;
   padding: 35px 40px;
   background-color: black;
 }
@@ -72,6 +73,7 @@ header .column span {
   display: flex;
   margin-top: 40px;
 }
+
 .piano-keys .key {
   cursor: pointer;
   user-select: none;
