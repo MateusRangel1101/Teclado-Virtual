@@ -2,6 +2,10 @@
 
 Este é um projeto de um simulador de piano virtual que pode ser tocado utilizando o teclado do seu computador. É uma aplicação web simples desenvolvida com JavaScript, CSS e HTML.
 
+<div align="center">
+<img src="https://github.com/MateusRangel1101/Teclado-Virtual/assets/142257269/b53e20c8-059f-4eb3-8461-bb379d8b27ad" alt="Imagem do Teclado" width="450" height="300">
+</div>
+
 ## Funcionalidades
 
 - **Teclado Interativo:** Utilize as teclas do seu teclado para tocar as notas musicais correspondentes.
@@ -12,7 +16,8 @@ Este é um projeto de um simulador de piano virtual que pode ser tocado utilizan
 
 1. Clone ou faça o download deste repositório.
 2. Abra o arquivo `index.html` em seu navegador preferido.
-3. Use as teclas do seu teclado conforme indicado na interface para tocar as notas musicais.
+3. o acesse: <a href="https://majestic-axolotl-a2afc6.netlify.app/">Teclado Virtual</a>
+4. Use as teclas do seu teclado conforme indicado na interface para tocar as notas musicais.
 
 ## Estrutura do Projeto
 
